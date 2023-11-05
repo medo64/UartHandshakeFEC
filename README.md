@@ -17,13 +17,13 @@ expansion card.
 
 | # | Ref  | Description                        |
 |--:|:----:|------------------------------------|
-| 1 | DSR# | Data Set Ready Control Input       |
-| 2 | CTS# | Clear To Send Control Input        |
+| 1 | CTS# | Clear To Send Control Input        |
+| 2 | DSR# | Data Set Ready Control Input       |
 | 3 | RXD  | Receiving  Data Input.             |
 | 4 | GND  | Ground supply                      |
 | 5 | TXD  | Transmit Data Output               |
-| 6 | RTS# | Request to Send Control Output     |
-| 7 | DTR# | Data Terminal Ready Control Output |
+| 6 | DTR# | Data Terminal Ready Control Output |
+| 7 | RTS# | Request to Send Control Output     |
 
 As power consumption is low, wires can be almost any AWG. I would recommend
 using 24 AWG wire 0.25 mm² as they allow for greater compatibility with other
